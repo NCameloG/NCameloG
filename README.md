@@ -1,6 +1,11 @@
-# Welome to my GitHbu profile ✌️👋
+# Welome to my GitHub profile ✌️👋 
 
 ### I´m Nicolas
+
+#### I´m a web developer stundent in GoIt Academy, and i´m currently learning about:
+
+1. HMTL & CSS
+2. JavaScript
 
 <!--
 **NCameloG/NCameloG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
