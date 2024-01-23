@@ -18,14 +18,3 @@
 </div>
 
 ###
-
-<div align="center">
-  <a href="www.linkedin.com/in/nicolascamelog" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="49" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="dev.ncamelog@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="49" height="35" alt="gmail logo"  />
-  </a>
-</div>
-
-###
