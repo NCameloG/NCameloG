@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Nicolás Camelo and I'm a developer in progress, from Colombia 🟡🔵🔴</h2>
+<h2 align="center">Welcome👋! My name is Nicolás Camelo </h2>
 
 ###
 
