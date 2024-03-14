@@ -1,4 +1,4 @@
-<h2 align="center">Welcome👋! My name is Nicolás Camelo </h2>
+<h1 align="center">Welcome👋! My name is Nicolás Camelo Gómez </h1>
 
 ###
 
@@ -21,3 +21,6 @@
 </div>
 
 ###
+
+<h2 align="center">ABOUT ME</h2>
+<p>I´m from Colombia and i´m a full stack developer in progress, i´m learning about this wonderfull world in GoIt Academy and i´ll do my best for be a good developer</p>
