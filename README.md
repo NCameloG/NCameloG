@@ -27,4 +27,6 @@
 ###
 
 <h2 align="center">ABOUT ME</h2>
-<p>I´m from Colombia and i´m a full stack developer in progress, i´m learning about this wonderfull world in GoIt Academy and i´ll do my best for be a good developer</p>
+<p>I´m a colombian <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/colombia/colombia-original.svg" height="30" alt="colombia logo"  />
+  <img width="12" />
+</div> and i´m a full stack developer, i´m keep learning about this wonderfull world and i´ll do my best for be a good developer, i like to see the results of a good work, the web´s design and it functionality, i would like to do all my best in each proyect and give you </p>
