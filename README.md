@@ -32,4 +32,4 @@
 <path fill="#ffe800" style="fill: var(--color1, #ffe800)" d="M0 0h42.667v32h-42.667z"></path>
 <path fill="#00148e" style="fill: var(--color2, #00148e)" d="M0 16h42.667v16h-42.667z"></path>
 <path fill="#da0010" style="fill: var(--color3, #da0010)" d="M0 24h42.667v8h-42.667z"></path>
-</symbol></svg></div> and i´m a full stack developer, i´m keep learning about this wonderfull world and i´ll do my best for be a good developer, i like to see the results of a good work, the web´s design and it functionality, i would like to do all my best in each proyect and give you </p>
+</symbol></svg> and i´m a full stack developer, i´m keep learning about this wonderfull world and i´ll do my best for be a good developer, i like to see the results of a good work, the web´s design and it functionality, i would like to do all my best in each proyect and give you </p>
