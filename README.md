@@ -27,9 +27,9 @@
 ###
 
 <h2 align="center">ABOUT ME</h2>
-<p>I´m a colombian <symbol id="es" viewBox="0 0 43 32">
+<p>I´m a colombian 
+  <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xml:space="preserve"><symbol id="es" viewBox="0 0 43 32">
 <path fill="#ffe800" style="fill: var(--color1, #ffe800)" d="M0 0h42.667v32h-42.667z"></path>
 <path fill="#00148e" style="fill: var(--color2, #00148e)" d="M0 16h42.667v16h-42.667z"></path>
 <path fill="#da0010" style="fill: var(--color3, #da0010)" d="M0 24h42.667v8h-42.667z"></path>
-</symbol>
-</div> and i´m a full stack developer, i´m keep learning about this wonderfull world and i´ll do my best for be a good developer, i like to see the results of a good work, the web´s design and it functionality, i would like to do all my best in each proyect and give you </p>
+</symbol></svg></div> and i´m a full stack developer, i´m keep learning about this wonderfull world and i´ll do my best for be a good developer, i like to see the results of a good work, the web´s design and it functionality, i would like to do all my best in each proyect and give you </p>
